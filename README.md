@@ -1,59 +1,43 @@
-# Portfolio
+# 🌟 Portfolio de Youssef Ait Rais
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Bienvenue dans mon portfolio personnel, une plateforme digitale que j'ai conçue pour présenter mon parcours, mes projets et mes compétences en développement web. Ce site a été pensé comme une carte de visite interactive et moderne.
 
-## Development server
+## 🎯 Objectif du projet
 
-To start a local development server, run:
+Ce projet a pour but de :
 
-```bash
-ng serve
-```
+- Mettre en valeur mes réalisations et mes compétences techniques
+- Offrir une expérience utilisateur fluide et responsive
+- Montrer ma capacité à construire des interfaces web soignées et fonctionnelles
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 🧰 Technologies utilisées
 
-## Code scaffolding
+- **HTML5** : structure sémantique de la page
+- **CSS3** : mise en page, animations, responsive design
+- **JavaScript** : interactivité et dynamisme
+- **Google Fonts** & **Font Awesome** (pour la typographie et les icônes)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🖼️ Aperçu du site
 
-```bash
-ng generate component component-name
-```
+![Aperçu du site](./img/screenshot.png)  
+*(Ajoutez ici une capture d’écran du portfolio si possible)*
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 📁 Structure du projet
 
-```bash
-ng generate --help
-```
 
-## Building
+## 🧠 À propos
 
-To build the project run:
+Ce portfolio représente mon identité de développeur. J’ai mis l’accent sur une présentation claire, un design simple mais efficace, et une navigation intuitive. Chaque section a été pensée pour guider le visiteur et lui donner envie d’en savoir plus sur mon travail.
 
-```bash
-ng build
-```
+## 🔗 Lien en ligne
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+> 👉 [Accéder au site](https://youssefaitrais.github.io/PortfolioYoussef) *(ajouter le lien si tu le publies via GitHub Pages)*
 
-## Running unit tests
+## 📬 Me contacter
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Si ce projet vous plaît ou si vous souhaitez collaborer avec moi, n’hésitez pas à me contacter !
 
-```bash
-ng test
-```
+---
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Merci d’avoir visité mon portfolio ! 🙌  
+Youssef Ait Rais
