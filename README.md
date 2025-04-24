@@ -1,43 +1,41 @@
 # 🌟 Portfolio de Youssef Ait Rais
 
-Bienvenue dans mon portfolio personnel, une plateforme digitale que j'ai conçue pour présenter mon parcours, mes projets et mes compétences en développement web. Ce site a été pensé comme une carte de visite interactive et moderne.
+Bienvenue dans mon portfolio personnel !
 
-## 🎯 Objectif du projet
-
-Ce projet a pour but de :
-
-- Mettre en valeur mes réalisations et mes compétences techniques
-- Offrir une expérience utilisateur fluide et responsive
-- Montrer ma capacité à construire des interfaces web soignées et fonctionnelles
-
-## 🧰 Technologies utilisées
-
-- **HTML5** : structure sémantique de la page
-- **CSS3** : mise en page, animations, responsive design
-- **JavaScript** : interactivité et dynamisme
-- **Google Fonts** & **Font Awesome** (pour la typographie et les icônes)
-
-## 🖼️ Aperçu du site
-
-![Aperçu du site](./img/screenshot.png)  
-*(Ajoutez ici une capture d’écran du portfolio si possible)*
-
-## 📁 Structure du projet
-
-
-## 🧠 À propos
-
-Ce portfolio représente mon identité de développeur. J’ai mis l’accent sur une présentation claire, un design simple mais efficace, et une navigation intuitive. Chaque section a été pensée pour guider le visiteur et lui donner envie d’en savoir plus sur mon travail.
-
-## 🔗 Lien en ligne
-
-> 👉 [Accéder au site](https://youssefaitrais.github.io/PortfolioYoussef) *(ajouter le lien si tu le publies via GitHub Pages)*
-
-## 📬 Me contacter
-
-Si ce projet vous plaît ou si vous souhaitez collaborer avec moi, n’hésitez pas à me contacter !
+Ce site a été conçu pour présenter mon parcours, mes compétences, et mes projets en tant que développeur passionné. Il reflète ma volonté de progresser continuellement dans le domaine du développement web moderne, en utilisant les technologies les plus récentes et efficaces.
 
 ---
 
-Merci d’avoir visité mon portfolio ! 🙌  
-Youssef Ait Rais
+## 🎯 Objectif du projet
+
+Ce portfolio a pour but de :
+
+- Mettre en valeur mes compétences techniques de manière élégante et professionnelle
+- Offrir une vitrine interactive de mes réalisations passées
+- Permettre aux recruteurs, collaborateurs ou curieux de mieux me connaître
+
+---
+
+## 🛠️ Technologies utilisées
+
+- **HTML5** : pour une structure claire et sémantique
+- **CSS3** & **Tailwind CSS** : pour un design moderne, responsive et personnalisable rapidement
+- **TypeScript** : pour une meilleure maintenabilité et robustesse du code
+- **Angular** : framework puissant pour construire des interfaces dynamiques et modulaires
+
+---
+
+## 🚀 Fonctionnalités
+
+- Interface responsive adaptée à tous les types d’écrans
+- Navigation fluide entre les différentes sections
+- Présentation synthétique de mes compétences, expériences et projets
+- Utilisation de composants Angular pour une organisation claire et réutilisable
+
+---
+
+## 🔗 Me retrouver
+
+👉 [www.linkedin.com/in/youssef-ait-rais](https://www.linkedin.com/in/youssef-ait-rais)
+
+Merci pour votre visite 🙌
